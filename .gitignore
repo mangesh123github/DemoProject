@@ -3,3 +3,6 @@ MainProject/.classpath
 MainProject/.gitignore 
 MainProject/.project
 MainProject/.settings/
+/bin/
+.classpath
+.project
